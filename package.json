@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.84.1",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.536.0",
+    "wouter": "^3.7.1"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.5.3",
+    "@types/wouter": "^2.0.1"
+  }
+}
